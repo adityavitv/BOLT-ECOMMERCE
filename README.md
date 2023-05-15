@@ -2,10 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/adityavitv/BOLT-ECOMMERCE
 )
-![GitHub stars](https://img.shields.io/github/stars/adityavitv/BOLT-ECOMMERCE
-?style=social)
-![GitHub forks](https://img.shields.io/github/forks/adityavitv/BOLT-ECOMMERCE
-?style=social)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/arcdeliospeaks?style=social)](https://twitter.com/intent/follow?screen_name=arcdeliospeaks)
 
 
